@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@google-cloud/speech": "^4.9.0",
-    "@google-cloud/storage": "^5.15.3",
+    "@google-cloud/storage": "^5.17.0",
     "@grammyjs/i18n": "^0.3.0",
     "@grammyjs/runner": "^1.0.2",
     "@typegoose/typegoose": "^9.2.0",
