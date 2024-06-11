@@ -16,7 +16,7 @@
     "lint": "yarn pretty && eslint --max-warnings 0 --ext ts,tsx,json src"
   },
   "dependencies": {
-    "@google-cloud/speech": "^4.9.0",
+    "@google-cloud/speech": "^5.0.0",
     "@google-cloud/storage": "^5.15.3",
     "@grammyjs/i18n": "^0.3.0",
     "@grammyjs/runner": "^1.0.2",
